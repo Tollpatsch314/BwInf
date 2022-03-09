@@ -1,0 +1,21 @@
+﻿Der Buildvorgang wurde am 09.01.2022 13:04:51 gestartet.
+Die Ausführlichkeit der Protokollierung ist auf "Normal" festgelegt.     1>Projekt "D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 2\Aufgabe 2\Aufgabe 2.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\Aufgabe 2.tlog\unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 2\Debug\Aufgabe2.exe" /INCREMENTAL /ILK:"Debug\Aufgabe2.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 2\Debug\Aufgabe2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 2\Debug\Aufgabe2.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Task2.obj
+         Aufgabe 2.vcxproj -> D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 2\Debug\Aufgabe2.exe
+       FinalizeBuildStatus:
+         Die Datei "Debug\Aufgabe 2.tlog\unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Debug\Aufgabe 2.tlog\Aufgabe 2.lastbuildstate".
+     1>Die Erstellung von Projekt "D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 2\Aufgabe 2\Aufgabe 2.vcxproj" ist abgeschlossen (Build Ziel(e)).
+
+Der Buildvorgang wurde erfolgreich ausgeführt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:00.82

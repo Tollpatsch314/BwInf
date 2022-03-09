@@ -1,0 +1,53 @@
+﻿Der Buildvorgang wurde am 28.12.2021 11:42:43 gestartet.
+Die Ausführlichkeit der Protokollierung ist auf "Normal" festgelegt.     1>Projekt "D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 3\Aufgabe 3\Aufgabe 3.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>PrepareForBuild:
+         Das Verzeichnis "D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 3\Release\" wird erstellt.
+         Das Verzeichnis "Release\Aufgabe 3.tlog\" wird erstellt.
+       InitializeBuildStatus:
+         "Release\Aufgabe 3.tlog\unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt main.cpp Task3.cpp
+         main.cpp
+     1>D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 3\Aufgabe 3\main.cpp(168,7): warning C4244: "Initialisierung": Konvertierung von "_Rep" in "uint16_t", möglicher Datenverlust
+                 with
+                 [
+                     _Rep=__int64
+                 ]
+     1>D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 3\Aufgabe 3\main.cpp(169,12): warning C4244: "Initialisierung": Konvertierung von "_Rep" in "uint16_t", möglicher Datenverlust
+                 with
+                 [
+                     _Rep=__int64
+                 ]
+     1>D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 3\Aufgabe 3\main.cpp(170,13): warning C4244: "Initialisierung": Konvertierung von "_Rep" in "uint16_t", möglicher Datenverlust
+                 with
+                 [
+                     _Rep=__int64
+                 ]
+         Task3.cpp
+     1>D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 3\Aufgabe 3\Task3.cpp(26,19): warning C4244: "return": Konvertierung von "unsigned short" in "uint8_t", möglicher Datenverlust
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 3\Release\Aufgabe3.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 3\Release\Aufgabe3.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"Release\Aufgabe3.iobj" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 3\Release\Aufgabe3.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Release\Task3.obj
+         Code wird generiert.
+         Previous IPDB not found, fall back to full compilation.
+         All 143 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Codegenerierung ist abgeschlossen.
+         Aufgabe 3.vcxproj -> D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 3\Release\Aufgabe3.exe
+       FinalizeBuildStatus:
+         Die Datei "Release\Aufgabe 3.tlog\unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Release\Aufgabe 3.tlog\Aufgabe 3.lastbuildstate".
+     1>Die Erstellung von Projekt "D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 3\Aufgabe 3\Aufgabe 3.vcxproj" ist abgeschlossen (Build Ziel(e)).
+
+Der Buildvorgang wurde erfolgreich ausgeführt.
+
+       "D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 3\Aufgabe 3\Aufgabe 3.vcxproj" (Build Ziel) (1) ->
+       (ClCompile Ziel) -> 
+         D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 3\Aufgabe 3\main.cpp(168,7): warning C4244: "Initialisierung": Konvertierung von "_Rep" in "uint16_t", möglicher Datenverlust
+         D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 3\Aufgabe 3\main.cpp(169,12): warning C4244: "Initialisierung": Konvertierung von "_Rep" in "uint16_t", möglicher Datenverlust
+         D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 3\Aufgabe 3\main.cpp(170,13): warning C4244: "Initialisierung": Konvertierung von "_Rep" in "uint16_t", möglicher Datenverlust
+         D:\Projekte\Programmierung\BWINF 2021\Runde 2\Aufgabe 3\Aufgabe 3\Task3.cpp(26,19): warning C4244: "return": Konvertierung von "unsigned short" in "uint8_t", möglicher Datenverlust
+
+    4 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:01.14
