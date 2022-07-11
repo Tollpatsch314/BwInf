@@ -1,0 +1,1 @@
+java -jar Aufgabe3.jar
