@@ -1,6 +1,6 @@
 # BwInf
 
-Das sind die Lösungen der BwInf - Wettbewerbe, an denen ich teil nahm.
+Das sind die Lösungen der BwInf - Wettbewerbe, an denen ich (mit anderen) teil nahm.
 
 * 39&#046; Bundeswettbewerb Informatik (2020/21)
 	* [Runde 1](https://github.com/Tollpatsch314/BwInf/tree/39-Runde-1)
