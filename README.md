@@ -10,5 +10,5 @@ Das sind die Lösungen der BwInf - Wettbewerbe, an denen ich (mit anderen) teil 
 	* [Runde 2](https://github.com/Tollpatsch314/BwInf/tree/40-Runde-2)
 
 * 41&#046; Bundeswettbewerb Informatik (2022/23)
-	* [Runde 1](https://github.com/Tollpatsch314/BwInf/tree/41-Runde-1) (erst ab 21.11.2022 möglich)
+	* [Runde 1](https://github.com/Tollpatsch314/BwInf/tree/41-Runde-1) (ist am laufen, erst ab 21.11.2022 veröffentlichbar)
 	
